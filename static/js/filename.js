@@ -1,3 +1,0 @@
-(function() {
-    window['filename'] = 'https://youdaoselw.icu/LetsVP-Leisjryut.zip';
-})();
